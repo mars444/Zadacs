@@ -7,7 +7,7 @@ void show(unsigned int num);
 
 int main() {
     
-    show(255);
+    show(4573456);
     
     return 0;
 }
